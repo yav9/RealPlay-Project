@@ -2,20 +2,37 @@
 
 We want to create a game that frees players from all that ad-slop and give you what was promised in those ads — without the bait-and-switch. RealPlay is a game that inspered from ads give you different games from what they are and make a game library from them you to enjoy.
 
-## Included Games
 
-## 1. The Last Outpost
+## INCLUDED GAMES
 
-Only game we are working so far, but more is coming for sure. On this one you make walls and fire up the campfire to protect yourself from outside dangers and avoiding to die of cold. With basic gameplay it serves a fun and simple gameplay experience. Doesn't plan to make it a long term game but a game that opens up the road for us and gives the information of what we are promising to the player.
+
+## 1. **** The Last Outpost ***
+
+- On this one you make walls and fire up the campfire to protect yourself from outside dangers and avoiding to die of cold. With basic gameplay it serves a fun and simple gameplay experience. Doesn't plan to make it a long term game but a game that opens up the road for us and gives the information of what we are promising to the player.
 
 |          Mechanic        |                                  Detail                               |
 |--------------------------|-----------------------------------------------------------------------|
 |         **Move**         | Basically the only gameplay option you have, as i said simple but fun |
-| **Collecting resources** | Cut down the trees and collect wood for various uses |
-|       **Defence**        | Defence against to the polar bears with your manpower, walls, etc. |
-|       **Serving**        | Give the meat you collected to the customers for money |
-|       **Levels**         | "Yet to be implamented" |
-|      **Game Over**       | If you are unable to satisfy your customers or unable to defence |
+| **Collecting resources** | Cut down the trees and collect wood for various uses                  |
+|       **Defence**        | Defence against to the polar bears with your manpower, walls, etc.    |
+|       **Serving**        | Give the meat you collected to the customers for money                |
+|       **Levels**         | "Yet to be implamented"                                               |
+|      **Game Over**       | If you are unable to satisfy your customers or unable to defence      |
+
+
+## 2. *** Ball Blast ***
+
+- Aim and shoot balls to destroy descending blocks before they reach the danger line. Each block has HP, and every 5 rows cleared increases the level and block toughness. Score points for each block destroyed and try to beat your high score!***
+
+|      Mechanic       |                          Detail                          |
+|---------------------|----------------------------------------------------------|
+|        **Aim**      | Move mouse to aim the cannon                             |
+|      **Shoot**      | Release left mouse button to fire                        |
+|      **Blocks**     | Each block shows its remaining HP                        |
+|     **Scoring**     | 10 pts per block destroyed                               |
+|     **Levels**      | Every 5 rows cleared = +1 level (blocks get tougher)     |
+|    **Game Over**    | Any block reaching the danger line ends the game         |
+
 
 
 
@@ -69,7 +86,5 @@ RealPlay-Project/
 - **VCS**: Git + GitHub (Private repo, v1.0'da public olacak)
 - **Kısıtlamalar**: 32GB KYK interneti (sadece GitHub + API call, büyük dosya yok)
 
-
 ## Contributing
-
 This project is developed by two first-year Computer Engineering students. Contributions, suggestions, and bug reports are welcome via GitHub Issues or Pull Requests.
