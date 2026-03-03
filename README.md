@@ -6,7 +6,7 @@ We want to create a game that frees players from all that ad-slop and give you w
 ## INCLUDED GAMES
 
 
-## 1. **** The Last Outpost ***
+## 1.  The Last Outpost 
 
 - On this one you make walls and fire up the campfire to protect yourself from outside dangers and avoiding to die of cold. With basic gameplay it serves a fun and simple gameplay experience. Doesn't plan to make it a long term game but a game that opens up the road for us and gives the information of what we are promising to the player.
 
@@ -20,7 +20,7 @@ We want to create a game that frees players from all that ad-slop and give you w
 |      **Game Over**       | If you are unable to satisfy your customers or unable to defence      |
 
 
-## 2. *** Ball Blast ***
+## 2. Ball Blast 
 
 - Aim and shoot balls to destroy descending blocks before they reach the danger line. Each block has HP, and every 5 rows cleared increases the level and block toughness. Score points for each block destroyed and try to beat your high score!***
 
