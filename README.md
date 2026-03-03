@@ -17,6 +17,8 @@ Only game we are working so far, but more is coming for sure. On this one you ma
 |       **Levels**         | "Yet to be implamented" |
 |      **Game Over**       | If you are unable to satisfy your customers or unable to defence |
 
+
+
 ## Project Structure
 
 ```
@@ -30,9 +32,16 @@ RealPlay-Project/
 │       ├── BlockController.cs  # Block HP display & destruction
 │       ├── BlockSpawner.cs     # Row spawning & difficulty scaling
 │       └── UIManager.cs        # HUD & game-over screen
+|
 ├── Packages/
-│   └── manifest.json    # Unity package dependencies
-├── ProjectSettings/     # Unity project configuration
+│   └── manifest.json           # Unity package dependencies
+|
+├── ProjectSettings/            # Unity project configuration
+|       ├── EditorBuildSettings.asset
+|       ├── Physics2DSettings.asset 
+|       ├── ProjectSettings.asset
+|       └── TagManager.asset     
+|              
 ├── .gitignore
 └── README.md
 ```
@@ -51,6 +60,15 @@ RealPlay-Project/
    - **Block Prefab** — Sprite + `BlockController.cs` + `TextMeshPro` child for the HP label + `Rigidbody2D` (kinematic) + `BoxCollider2D`.
    - **Ball Prefab** — Circle Sprite + `BallController.cs` + `Rigidbody2D` + `CircleCollider2D` + a bouncy `Physics Material 2D` (Bounciness = 1, Friction = 0).
 5. **Press Play** — aim with your mouse and click to shoot!
+
+
+## Geliştirme Ortamı
+
+- **IDE**: Visual Studio Code
+- **Game Engine**: Unity 6.3 LTS
+- **VCS**: Git + GitHub (Private repo, v1.0'da public olacak)
+- **Kısıtlamalar**: 32GB KYK interneti (sadece GitHub + API call, büyük dosya yok)
+
 
 ## Contributing
 
