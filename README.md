@@ -1,19 +1,21 @@
 # RealPlay-Project
 
-We want to create a game that frees players from all that ad-slop and give you what was promised in those ads — without the bait-and-switch. RealPlay is a **Ball Blast** style 2D arcade game built in Unity where you actually play the game shown in the advertisement.
+We want to create a game that frees players from all that ad-slop and give you what was promised in those ads — without the bait-and-switch. RealPlay is a game that inspered from ads give you different games from what they are and make a game library from them you to enjoy.
 
-## Game Overview
+## Included Games
 
-Numbered blocks descend toward your cannon row by row. Aim with your mouse, fire a volley of balls, and destroy every block before it reaches you. Each hit reduces a block's HP by 1; when it hits 0 the block explodes and you earn points. Survive as long as possible and reach higher levels for bigger blocks and more points.
+## 1. The Last Outpost
 
-| Mechanic | Detail |
-|---|---|
-| **Aim** | Move mouse to aim the cannon |
-| **Shoot** | Release left mouse button to fire |
-| **Blocks** | Each block shows its remaining HP |
-| **Scoring** | 10 pts per block destroyed |
-| **Levels** | Every 5 rows cleared = +1 level (blocks get tougher) |
-| **Game Over** | Any block reaching the danger line ends the game |
+Only game we are working so far, but more is coming for sure. On this one you make walls and fire up the campfire to protect yourself from outside dangers and avoiding to die of cold. With basic gameplay it serves a fun and simple gameplay experience. Doesn't plan to make it a long term game but a game that opens up the road for us and gives the information of what we are promising to the player.
+
+|          Mechanic        |                                  Detail                               |
+|--------------------------|-----------------------------------------------------------------------|
+|         **Move**         | Basically the only gameplay option you have, as i said simple but fun |
+| **Collecting resources** | Cut down the trees and collect wood for various uses |
+|       **Defence**        | Defence against to the polar bears with your manpower, walls, etc. |
+|       **Serving**        | Give the meat you collected to the customers for money |
+|       **Levels**         | "Yet to be implamented" |
+|      **Game Over**       | If you are unable to satisfy your customers or unable to defence |
 
 ## Project Structure
 
